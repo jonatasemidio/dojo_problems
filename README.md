@@ -7,7 +7,7 @@ Easy:
 * 'NamingConvention' > http://community.topcoder.com/stat?c=problem_statement&pm=13521
 * 'Cat Taro' > http://community.topcoder.com/stat?c=problem_statement&pm=13006
 * 'Alien and Password' > http://community.topcoder.com/stat?c=problem_statement&pm=12950
-* 'Quem é o Pai' > https://gist.github.com/jonatasemidio/abf36f74ab00a78ec719
+* 'Teste de DNA' > https://gist.github.com/jonatasemidio/abf36f74ab00a78ec719
 
 Medium:
 =======
