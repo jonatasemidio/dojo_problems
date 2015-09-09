@@ -11,7 +11,7 @@ Easy:
 
 Medium:
 =======
-* 'Plutãones' > https://gist.github.com/jonatasemidio/8b95d2c666004065c53f
+* 'Plutãones' > https://github.com/jonatasemidio/dojo_problems/blob/master/plutanes.md
 
 Hard:
 =====
