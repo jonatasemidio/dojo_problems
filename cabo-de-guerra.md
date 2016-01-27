@@ -16,7 +16,8 @@ Ex: [(3,1), 8, (2,3)]
 * Rodada: A cada rodada cada pessoa perde 1 de resistencia e ao chegar ao zero a pessoa não é mais contada no jogo.
 * Rodada: A cada rodada a corda se movimenta o equivalente a subitração das somas dos pesos.
 *   Ex: [(3,1), 8, (2,3)] => P1 = 3 e P2 = 2 => Primeira rodada a corda é movimentada (3-2) a favor do mais pesado.
-   
+  
+OBJ: Dado a definição das pessoas e da corda ... determinar qual o time vencedor. 
 ***
 
 * OBS: Ainda em construção
