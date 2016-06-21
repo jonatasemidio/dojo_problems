@@ -12,4 +12,19 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 f = {a,b,c,s,n-> c==n-1 ? [a, b, s] : f(b, a+b, ++c, s+","+(a+b), n)}
 f(1,2,1,"1,2", 10)[2].split(",").collect{ it as Long }.findAll{ it%2==0 }.sum()
 ```
+##3 - Largest prime factor
+The prime factors of 13195 are 5, 7, 13 and 29.<br/>
+What is the largest prime factor of the number 600851475143 ?
+```groovy
+BigInteger n = 600851475143
+acc = []
+
+for(int i = 2; i <= n; i++){
+    while(n%i == 0) {
+        acc << i
+        n /= i
+    }
+}
+acc.max()
+```
 
