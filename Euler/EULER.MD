@@ -66,6 +66,6 @@ def lcm(int a, int b){
 }
 
 int answer = 1
-1.upto(21){answer = lcm(answer, it)}
+1.upto(20){answer = lcm(answer, it)}
 ```
 
