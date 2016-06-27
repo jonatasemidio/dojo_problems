@@ -53,6 +53,21 @@ println pl.sort{ it.key }
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 ```groovy
-def sml = {}
+n = 0
+sml = 0
+while(true){n++
+
+    qtdFound = 0
+    n++
+    
+    1.upto(20){
+            
+        if(n%it==0) qtdFound++   
+    }
+    
+    if(qtdFound == 20) {sml = n; break }
+}
+
+println sml
 ```
 
