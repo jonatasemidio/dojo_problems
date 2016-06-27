@@ -32,24 +32,19 @@ acc.max()
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.<br/>
 Find the largest palindrome made from the product of two 3-digit numbers.
 ```groovy
-def pl = {int n -> 
-    a = 0
-    while(n>0){
-        a = a*10 + n%10
-        n /= 10
-        if(a == n) return true
+def isPl(n){s=n.length(); return  s%2==0 ? n[0..(s/2-1)] == n[-1..s/2] : n[0..(s/2-1)] == n[-1..s/2+1]   }
+a=999
+pl = [:]
+acc = []
+notFound = true
+while(a>=100 && notFound){
+    for(b=999 ; b>=100; b--){
+        acc << [a, b, a*b, isPl( (a*b).toString() )]
+        if(isPl( (a*b).toString() )) {pl << [(a*b):[a,b]]}
     }
-    return false
-}
-numbers = []
-
-for(a in 100..1000){
-    for(b in a..1000){
-        numbers << a*b
-    }
+    a--
 }
 
-answer = numbers.findAll{ pl(it) }
-print answer
+println pl.sort{ it.key }
 ```
 
