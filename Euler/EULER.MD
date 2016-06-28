@@ -104,9 +104,8 @@ def isPrime(int n){
 num = 1
 pos = 10001
 qtdPrime = 0
-while(true){
+while(qtdPrime != pos){
     if(isPrime(++num)) qtdPrime++
-    if(qtdPrime == pos) break
 }
 println num
 ```
