@@ -87,11 +87,10 @@ l.sum()**2 - l.collect{it**2}.sum()
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.<br/>
 What is the 10 001st prime number?
 ```groovy
-notFound = true
 num = 1
 pos = 10001
 qtdPrime = 0
-while(notFound){
+while(true){
     if(isPrime(++num)) qtdPrime++
     if(qtdPrime == pos) break
 }
