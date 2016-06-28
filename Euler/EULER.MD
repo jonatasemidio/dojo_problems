@@ -82,3 +82,18 @@ Find the difference between the sum of the squares of the first one hundred natu
 l  = 1..100
 l.sum()**2 - l.collect{it**2}.sum()
 ```
+
+##7 - 10001st prime
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.<br/>
+What is the 10 001st prime number?
+```groovy
+notFound = true
+num = 1
+pos = 10001
+qtdPrime = 0
+while(notFound){
+    if(isPrime(++num)) qtdPrime++
+    if(qtdPrime == pos) break
+}
+println num
+```
