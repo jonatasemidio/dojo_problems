@@ -1,4 +1,4 @@
-# dojo_problems
+# Dojo Problems
 Some link to use on coding dojos
 
 
