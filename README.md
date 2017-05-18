@@ -14,7 +14,7 @@ Medium :
 =======
 * 'Plutãones' > https://github.com/jonatasemidio/dojo_problems/blob/master/plutanes.md
 * 'Teorema Barbarossa' > https://github.com/jonatasemidio/dojo_problems/blob/master/teorema_barbarossa.md
-* 'Corrida de Pinoquio' >
+* 'Corrida de Pinoquio' > https://github.com/jonatasemidio/dojo_problems/blob/master/corrida-de-pinoquio.md
 
 Hard :
 =====
