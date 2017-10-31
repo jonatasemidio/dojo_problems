@@ -4,9 +4,10 @@ Some link to use on coding dojos
 
 Easy :
 =====
-* 'Teste de DNA' > https://github.com/jonatasemidio/dojo_problems/blob/master/testededna.md
-* 'Cabo de Guerra' > https://github.com/jonatasemidio/dojo_problems/blob/master/cabo-de-guerra.md
-* 'Sensormático Subeta' > https://github.com/jonatasemidio/dojo_problems/blob/master/sensormatico_subeta.md
+* ['Teste de DNA'](https://github.com/jonatasemidio/dojo_problems/blob/master/testededna.md)
+* ['Cabo de Guerra'](https://github.com/jonatasemidio/dojo_problems/blob/master/cabo-de-guerra.md)
+* ['Sensormático Subeta'](https://github.com/jonatasemidio/dojo_problems/blob/master/sensormatico_subeta.md)
+* ['Dilma Boolean Case'](#)
 
 Medium :
 =======
