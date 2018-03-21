@@ -9,6 +9,7 @@ Easy :
 * ['Sensormático Subeta'](https://github.com/jonatasemidio/dojo_problems/blob/master/sensormatico_subeta.md)
 * ['Dilma Boolean Case' (incompleto)](https://github.com/jonatasemidio/dojo_problems/blob/master/dilma-boolean-case.md)
 * ['Lingua do Pê'](https://github.com/jonatasemidio/dojo_problems/blob/master/lingua-do-pe.md)
+* ['Escudo Anti-Bruxa'](https://github.com/jonatasemidio/dojo_problems/blob/master/escudo-anti-bruxas.md)
 
 Medium :
 =======
