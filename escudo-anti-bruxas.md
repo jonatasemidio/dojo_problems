@@ -5,11 +5,11 @@ Escudo anti-bruxas
 
 Contexto:
 ---------
-Você está com seus amigos andando em um bosque a procura de um lugar perfeito para fazer um picnic, mas você percebem que o lugar é amaldiçoado e tem uma bruxa se aproximando de vocês. Por sorte no meio dos alimentos vocês tem bastante sal ... mas será que esse sal é o suficiente para proteger a todos.
+Você está com seus amigos andando em um bosque a procura de um lugar perfeito para fazer um picnic, mas vocês percebem que o lugar é amaldiçoado e tem uma bruxa se aproximando. Por sorte no meio dos alimentos vocês tem bastante sal ... mas será que esse sal é o suficiente para proteger a todos?
 
 Problema:
 ---------
-Dado um território e a posição das crianças, informe se a quantidade de sal que elas possuiem é  o suficiente para protege-las.
+Dado um território e a posição das crianças, informe se a quantidade de sal que elas possuiem é o suficiente para protege-las.
 
 Entrada:
 --------
