@@ -32,3 +32,29 @@ se é possível ou não proteger as crianças.
 Curiosidade:
 ------------
 Se você já assistiu [Abracadabra](https://www.imdb.com/title/tt0107120/) sabe que com sal você pode fazer um escudo anti-bruxas.
+
+Testes:
+-------
+test([(3, 3)], 8)
+entrada: [(3, 3)], 8
+saída: 'KIDS WINS'
+OBS: Com 8 kg de sal é possível é posível cobrir o redor da criança
+
+test([(3, 3)], 7)
+entrada: [(3, 3)], 7
+saída: 'BRUXA WINS'
+OBS: Faltou 1kg de sal para fechar o escudo. Logo a bruxa fez a festa.
+
+test([(3, 3), (3, 2)], 8)
+entrada: [(3, 3), (3, 2)], 8
+saída: 'BRUXA WINS'
+OBS: Não teve sal suficiente para fechar o escudo em volta das crianças. Logo a bruxa fez a festa.
+
+test([(3, 3), (3, 2)], 10)
+entrada: [(3, 3), (3, 2)],10
+saída: 'BRUXA WINS'
+OBS: Com 10 kg de sal é possível é posível cobrir o redor das crianças
+
+
+
+
