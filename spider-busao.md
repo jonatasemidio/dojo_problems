@@ -15,11 +15,11 @@ Regras do transporte publico:
 
 Problema:
 ---------
-Dado as estações suas conexões, seus valores e o valor de recarga do cartão do Homem aranha - Diga se será possível ele encontrar a Mary Jane no Sitio de Carangola.
+Dado as estações, suas conexões, seus valores e o valor de recarga do cartão do Homem aranha - Diga se será possível ele encontrar a Mary Jane no Sitio de Carangola.
 
 ---
 Legenda da entrada:
-primeiro para metro é 1 inteiro que faz referencia ao valor de recarga do Homem aranha
+primeiro parâmetro é -> 1 inteiro que faz referencia ao valor de recarga do Homem aranha
 os próximos são as conexões compostas por 3 inteiros (estação inicial, estação final e valor da tarifa entre ambas)
 
 ---
