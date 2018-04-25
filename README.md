@@ -16,6 +16,8 @@ Medium :
 * ['Plutãones'](https://github.com/jonatasemidio/dojo_problems/blob/master/plutanes.md)
 * ['Teorema Barbarossa'](https://github.com/jonatasemidio/dojo_problems/blob/master/teorema_barbarossa.md)
 * ['Corrida de Pinoquio (verificar exemplos)'](https://github.com/jonatasemidio/dojo_problems/blob/master/corrida-de-pinoquio.md)
+* [Escudo Anti-Bruxa](https://github.com/jonatasemidio/dojo_problems/blob/master/escudo-anti-bruxas.md)
+* [Spider Busão](https://github.com/jonatasemidio/dojo_problems/blob/master/spider-busao.md)
 
 Hard :
 =====
