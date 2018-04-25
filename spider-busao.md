@@ -6,7 +6,7 @@ Spider-busão
  
 Historinha:
 -----------
-Mary Jane convida Peter Parker para conhecer um sitio de uma amiga de infância em uma cidade no interior de minas gerais (Carangola), Brasil. Devido suas responsabilidades, Peter se vê tendo que ir um dia depois, e ao chegar  na rodoviária principal se depara com uma cidade que não possui os prédio que seriam usados para locomoção com ajuda de suas teias. O problema é Peter esta  com dinheiro contado e se vê na necessidade de fazer o caminho mais econômico usando o sistema de ônibus transporte publico da cidade.
+Mary Jane convida Peter Parker para conhecer um sitio de uma amiga de infância em uma cidade no interior de minas gerais (Carangola), Brasil. Devido suas responsabilidades, Peter se vê tendo que ir um dia depois, e ao chegar  na rodoviária principal se depara com uma cidade que não possui os prédios que seriam usados para locomoção com ajuda de suas teias. O problema é que Peter esta  com dinheiro contado e se vê na necessidade de fazer o caminho mais econômico usando o sistema de transporte publico da cidade.
  
 Regras do transporte publico:
 -----------------------------
