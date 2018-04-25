@@ -54,6 +54,6 @@ os próximos são as conexões compostas por 3 inteiros (estação inicial, esta
 5 6 27
 3 6 30
 
-#saída: Chegou! na "Maria Jane"
-#OBS: O total gasto foi 25 dinheiro pelo seguinte trajeto (1 -> 2 -> 4 -> 6). Calculo (20 + (10 - 20 = - 10 ou seja fica isento) + (25 - 20 = 5) ) = 25
+#saída: Chegou! na "Maria Janeá
+#OBS: O total gasto foi 25 em dinheiros, pelo seguinte trajeto (1 -> 2 -> 4 -> 6). Calculo (20 + (10 - 20 = - 10 ou seja fica isento) + (25 - 20 = 5) ) = 25
 ```
