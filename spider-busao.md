@@ -6,7 +6,7 @@ Spider-busão
  
 Historinha:
 -----------
-Mary Jane convida Peter Parker para conhecer um sitio de uma amiga de infância em uma cidade no interior de minas gerais (Carangola), Brasil. Devido suas responsabilidades, Peter se vê tendo que ir um dia depois, e ao chegar  na rodoviária principal se depara com uma cidade que não possui os prédios que seriam usados para locomoção com ajuda de suas teias. O problema é que Peter esta  com dinheiro contado e se vê na necessidade de fazer o caminho mais econômico usando o sistema de transporte publico da cidade.
+Maria Janete (Mary Janete) convida Peter Parker para conhecer um sitio de uma amiga de infância em uma cidade no interior de minas gerais (Carangola), Brasil. Devido suas responsabilidades, Peter se vê tendo que ir um dia depois, e ao chegar  na rodoviária principal se depara com uma cidade que não possui os prédios que seriam usados para locomoção com ajuda de suas teias. O problema é que Peter esta  com dinheiro contado e se vê na necessidade de fazer o caminho mais econômico usando o sistema de transporte publico da cidade.
  
 Regras do transporte publico:
 -----------------------------
@@ -15,7 +15,7 @@ Regras do transporte publico:
 
 Problema:
 ---------
-Dado as estações, suas conexões, seus valores e o valor de recarga do cartão do Homem aranha - Diga se será possível ele encontrar a Mary Jane no Sitio de Carangola.
+Dado as estações, suas conexões, seus valores e o valor de recarga do cartão do Homem aranha - Diga se será possível ele encontrar a Maria Janete no Sitio de Carangola. (Sempre considerando que o Homem aranha está na primeira estação e a Maria Janete está na última)
 
 ---
 Legenda da entrada:
@@ -54,6 +54,6 @@ os próximos são as conexões compostas por 3 inteiros (estação inicial, esta
 5 6 27
 3 6 30
 
-#saída: Chegou! na "Maria Janeá
+#saída: Chegou! na "Maria Janete
 #OBS: O total gasto foi 25 em dinheiros, pelo seguinte trajeto (1 -> 2 -> 4 -> 6). Calculo (20 + (10 - 20 = - 10 ou seja fica isento) + (25 - 20 = 5) ) = 25
 ```
